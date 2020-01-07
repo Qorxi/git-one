@@ -1,3 +1,4 @@
 Master Branch text!
 Master branch added 2 text!
+
 Master branch added 3 line text!
