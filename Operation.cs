@@ -14,4 +14,9 @@ public class Operation
   {
     Console.WriteLine("Cloneoperation");
   }
+
+  public void TestOperation()
+  {
+    Console.WriteLine("Completation");
+  }
 }
