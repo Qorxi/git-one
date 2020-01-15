@@ -9,4 +9,9 @@ public class Operation
   {
     Console.WriteLine("Initoperation");
   }
+
+  public void Cloneoperation()
+  {
+    Console.WriteLine("Cloneoperation");
+  }
 }
