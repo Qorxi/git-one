@@ -1,8 +1,10 @@
-public class Operation
+public abstract class Operation
 {
   private int number;
 
-  private int CvLoadOperationInt();
+  protected abstract int CvLoadOperationInt();
+
+  private int CvOperationId{get; set;}
 
   public Operation()
   {
