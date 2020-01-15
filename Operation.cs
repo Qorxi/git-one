@@ -2,6 +2,8 @@ public class Operation
 {
   private int number;
 
+  private int CvLoadOperationInt();
+
   public Operation()
   {
 
