@@ -1,5 +1,7 @@
 public class Operation
 {
+  private int number;
+
   public Operation()
   {
 
